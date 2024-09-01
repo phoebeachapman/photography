@@ -2,12 +2,12 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+url: "https://phoebeachapman.github.io"
+baseurl: "/photography"
 facebook_username: ""
-twitter_username: ""
-instagram_username: ""
-github_username:  ""
+twitter_username: "@phoebeachapman"
+instagram_username: "awetsawdustdemon"
+github_username:  "phoebeachapman"
 deviantart_username: ""
 flickr_username: ""
 discus_shortname: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://phoebeachapman.github.io/photography/gallery/"  
+  - JOURNAL: "https://phoebeachapman.github.io/photography/journal/"
+  - ABOUT: "https://phoebeachapman.github.io/photography/about/"
 
 # All translation keys
 translations:
