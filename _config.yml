@@ -33,6 +33,7 @@ comments :
 
 # Internal nav
 nav:
+  - HOME: "https://phoebeachapman.github.io/photography/"
   - GALLERY: "https://phoebeachapman.github.io/photography/gallery/"  
   - ABOUT: "https://phoebeachapman.github.io/photography/about/"
 
