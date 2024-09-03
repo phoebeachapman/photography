@@ -34,7 +34,6 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://phoebeachapman.github.io/photography/gallery/"  
-  - JOURNAL: "https://phoebeachapman.github.io/photography/journal/"
   - ABOUT: "https://phoebeachapman.github.io/photography/about/"
 
 # All translation keys
